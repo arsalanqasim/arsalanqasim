@@ -14,15 +14,15 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@ArsalanQasim-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsalan-qasim-416a7b258)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arsalanqasim400@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@ArsalanQasim-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arsalanqasim)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6366f1&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=8b5cf6&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=4f46e5&label=Total+Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=arsalanqasim&style=flat-square&color=6366f1&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/arsalanqasim?style=flat-square&color=8b5cf6&label=Followers&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/arsalanqasim?style=flat-square&color=4f46e5&label=Total+Stars&logo=github)
 
 </div>
 
@@ -113,7 +113,7 @@ An AI agent built to master a custom Pygame clone of the classic Chrome Dinosaur
 |---|---|
 | **Stack** | Python, Pygame, Numpy |
 | **Domain** | Genetic Algorithms, Neuroevolution, Game AI |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Dino--AI-6366f1?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/Dino-AI) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Dino--AI-6366f1?style=flat-square&logo=github)](https://github.com/arsalanqasim/dino-ai) |
 
 <br/>
 
@@ -130,7 +130,7 @@ Budgy is a robust, locally hosted desktop application designed for personal fina
 |---|---|
 | **Stack** | Python, Tkinter, Pandas, Matplotlib |
 | **Domain** | Software Engineering, Data Visualization, Desktop Applications |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Budgy-6366f1?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/Budgy) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Budgy-6366f1?style=flat-square&logo=github)](https://github.com/arsalanqasim/budgy) |
 
 <br/>
 
@@ -144,14 +144,14 @@ Budgy is a robust, locally hosted desktop application designed for personal fina
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe&ring_color=4f46e5" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c7d2fe&hide=jupyter%20notebook,html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsalanqasim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=c7d2fe&ring_color=4f46e5" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanqasim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c7d2fe&hide=jupyter%20notebook,html,css" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=818cf8&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanqasim&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=818cf8&sideLabels=c7d2fe&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="70%" />
 
 </div>
 
@@ -164,9 +164,9 @@ Budgy is a robust, locally hosted desktop application designed for personal fina
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsalanqasim/arsalanqasim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsalanqasim/arsalanqasim/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arsalanqasim/arsalanqasim/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
