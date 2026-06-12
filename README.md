@@ -52,7 +52,7 @@ Currently, my research and development efforts are directed toward exploring Neu
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,cpp,sql,bash&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,postgresql,bash&theme=dark)](https://skillicons.dev)
 
 **AI & Machine Learning**
 
